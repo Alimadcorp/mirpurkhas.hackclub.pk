@@ -10,18 +10,32 @@
       "Mohsin R."
     ]
   },
-  {
-    "gameName": "bubbly ninga",
-    "gameDescription": "a ninja who loves to jump",
-    "gameUrl": "https://netikkumar.itch.io/bubbly-ninga",
-    "githubUrl": "https://github.com/netikkumar/bubbly-ninga",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-mirpurkhas/28032990-a2c6-4c3c-9352-edde75be0699.png",
+
+    {
+    "gameName": "Rasgulla Rumble",
+    "gameDescription": "This is a game specifically for Hack Club Haven Mirpurkhas\nball like aliens have invaded your world and you are the one who has to defend it\nthe only weapon you have are canons and your only ammo are sweets\nYou have to shoot rasgullas (a traditional pakistani sweet) at the angry *bouncing* aliens who are trying to stomp you\nYour only controls are A and D to move left and right and you have to aim your mouse to align your shot and press LMB to shoot\nThis game is made by 3 pakistani developers Rahoom, Jaswant and Noor M\nEverything you sense is made by us, the background images, the sprites, the animations, the characters, the physics, the background music, the sound effects\nhttps://r7-studios.itch.io/rasgulla-rumble",
+    "gameUrl": "https://r7-studios.itch.io/rasgulla-rumble",
+    "githubUrl": "https://github.com/Rahoom233/Haven-game-jam",
+    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-mirpurkhas/edd509a4-4bef-425c-a641-36e2e8087330.png",
     "teamMembers": [
-      "Abdullah S.",
-      "Netik K.",
-      "Sagar K."
+      "Jaswant P.",
+      "Noor Muhammad M.",
+      "Rahoom S."
     ]
   },
+
+  {
+    "gameName": "Die With Bonce",
+    "gameDescription": "I made bounce back game and it's name is End With Bounce and In this game character will collect the coin. It is friendly game",
+    "gameUrl": "https://iamhannann404.itch.io/end-with-bounce",
+    "githubUrl": "https://github.com/iamhannann404/End-With-Bounce",
+    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-mirpurkhas/2eb4c019-0241-4648-9bb0-e65a6dc2fc23.png",
+    "teamMembers": [
+      "Hassan S.",
+      "Malik Hannan R."
+    ]
+  },
+
   {
     "gameName": "Time Twist",
     "gameDescription": "gojo king",
@@ -34,17 +48,7 @@
       "simrthi L."
     ]
   },
-  {
-    "gameName": "Die With Bonce",
-    "gameDescription": "I made bounce back game and it's name is End With Bounce and In this game character will collect the coin. It is friendly game",
-    "gameUrl": "https://iamhannann404.itch.io/end-with-bounce",
-    "githubUrl": "https://github.com/iamhannann404/End-With-Bounce",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-mirpurkhas/2eb4c019-0241-4648-9bb0-e65a6dc2fc23.png",
-    "teamMembers": [
-      "Hassan S.",
-      "Malik Hannan R."
-    ]
-  },
+  
   {
     "gameName": "Horror Jumpzz",
     "gameDescription": "This game control Arrow like Left Right",
@@ -57,18 +61,19 @@
       "M Shahzain M."
     ]
   },
-  {
-    "gameName": "Rasgulla Rumble",
-    "gameDescription": "This is a game specifically for Hack Club Haven Mirpurkhas\nball like aliens have invaded your world and you are the one who has to defend it\nthe only weapon you have are canons and your only ammo are sweets\nYou have to shoot rasgullas (a traditional pakistani sweet) at the angry *bouncing* aliens who are trying to stomp you\nYour only controls are A and D to move left and right and you have to aim your mouse to align your shot and press LMB to shoot\nThis game is made by 3 pakistani developers Rahoom, Jaswant and Noor M\nEverything you sense is made by us, the background images, the sprites, the animations, the characters, the physics, the background music, the sound effects\nhttps://r7-studios.itch.io/rasgulla-rumble",
-    "gameUrl": "https://r7-studios.itch.io/rasgulla-rumble",
-    "githubUrl": "https://github.com/Rahoom233/Haven-game-jam",
-    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-mirpurkhas/edd509a4-4bef-425c-a641-36e2e8087330.png",
+    {
+    "gameName": "bubbly ninga",
+    "gameDescription": "a ninja who loves to jump",
+    "gameUrl": "https://netikkumar.itch.io/bubbly-ninga",
+    "githubUrl": "https://github.com/netikkumar/bubbly-ninga",
+    "gamePhoto": "assets/haven-judge.hackclub-assets.com/screenshots/haven-mirpurkhas/28032990-a2c6-4c3c-9352-edde75be0699.png",
     "teamMembers": [
-      "Jaswant P.",
-      "Noor Muhammad M.",
-      "Rahoom S."
+      "Abdullah S.",
+      "Netik K.",
+      "Sagar K."
     ]
   },
+
   {
     "gameName": "Jumpino",
     "gameDescription": "in this game we have a frog and barries. the mission of this game is to collect the barries.\na player controll the frog and collect the barriees to jumpmthe frog we press spacebar and to move arrows.",
